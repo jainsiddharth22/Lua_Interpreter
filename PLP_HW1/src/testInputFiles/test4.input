@@ -1,0 +1,4 @@
+name = "Sid"
+function getName(){
+	return name
+}

@@ -1,0 +1,7 @@
+if(a==1 or a==2){
+	return    "Sid"
+}elseif(a==3){
+	return "John"
+}else{
+	return "Tom"
+}
